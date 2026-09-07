@@ -12,7 +12,7 @@
 // -------------------- CONFIG --------------------
 #define FIREBASE_API_KEY "AIzaSyByrM6puhU-bUW5fFyqWD8kS5bjrgx70H4"
 #define FIREBASE_DATABASE_URL "https://tl-2024mcb1318-default-rtdb.firebaseio.com"
-#define USER_EMAIL "kumarmanan106@gmail.com"
+#define USER_EMAIL "muhalaakash2@gmail.com"
 #define USER_PASSWORD "Chomu@suck1"
 #define FIREBASE_SEAT_PATH "/seat/1"
 
