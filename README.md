@@ -347,7 +347,7 @@ Contributions are welcome! To get started:
 
 ## 👤 Author
 
-**Kumar Manan**
+**Akash Muhal** — Design, Development & Testing
 - Designed, developed & tested as a **Tinkering Lab** project
 
 ---
