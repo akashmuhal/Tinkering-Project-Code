@@ -1,0 +1,10 @@
+# Credentials
+secrets.h
+
+# Build
+build/
+.pio/
+
+# IDE
+.vscode/
+*.code-workspace
